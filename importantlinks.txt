@@ -1,0 +1,19 @@
+//https://javascript.info/
+//good website ...........
+
+
+//https://javascript.info/function-object
+
+
+//https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261
+
+
+//install
+//https://robomongo.org/
+
+//robot 3T
+
+
+//https://docs.mongodb.com/database-tools/installation/installation/
+
+
